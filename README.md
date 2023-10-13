@@ -47,7 +47,7 @@ The University Management System is a desktop application built using MYSQL data
 
 1. Clone the repository to your local machine.
 
-```https://github.com/kaneki-ken260/University-Management-System.git```
+```https://github.com/Naman-11/University_Management_System.git```
 
 2. Open the project using NetBeans IDE.
 
@@ -57,7 +57,7 @@ The University Management System is a desktop application built using MYSQL data
 
 ## Contributors
 
-- [Ritwik Rajput](https://github.com/kaneki-ken260)
+- [Naman Yadav](https://github.com/Naman-11)
 - [Anurag Gaurav](https://github.com/Anurag30598)
 
 ## Acknowledgments
@@ -65,5 +65,5 @@ The University Management System is a desktop application built using MYSQL data
 - Thanks to the Java, Swing and NetBeans communities for their valuable resources.
 
 ---
-For more information or inquiries, please contact [Ritwik Rajput](mailto:ritwikrajput620@gmail.com).
+For more information or inquiries, please contact [Naman Yadav](mailto:namanyadav982@gmail.com).
 
